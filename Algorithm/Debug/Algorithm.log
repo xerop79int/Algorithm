@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Encryption.h(92,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Encryption.h(99,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Encryption.h(116,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Decryption.h(93,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Decryption.h(102,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Decryption.h(120,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Decryption.h(121,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\D\source\repos\Algorithm\Algorithm\Algorithm_Decryption.h(128,20): warning C4018: '<': signed/unsigned mismatch
+  Algorithm.vcxproj -> C:\Users\D\source\repos\Algorithm\Debug\Algorithm.exe
